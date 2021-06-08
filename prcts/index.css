@@ -1,14 +1,6 @@
-*{
-    font-family: Sans-Serif;
-  }
-.first :first-child{
-    color: rgb(255, 0, 0);
-    font-size: 24px;
- 
-}
-#diff>p{
-    text-decoration: underline;
-}
-h1,p{
-    font-family: comic sans ;
+.bg {
+    height: 300px;
+    padding: 15px;
+    background-image: url("https://goo.gl/cf86rg");
+    background-color: teal;
 }
